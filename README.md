@@ -60,7 +60,7 @@ I need to finish updating all my online accounts and my documents that I use to 
 ## List of most important things to do:
 
 ### Connections are going to get me a job before skillset, so building connections with other developers is crucial
-1. Contact Kyle and ask about his work experiences
+* Contact Kyle and ask about his work experiences
 
 * Take Nate out for a beer and talk about tech.
 
@@ -78,42 +78,42 @@ I need to finish updating all my online accounts and my documents that I use to 
 
 1.  Finish reading Javscript/Jquery book by Duckett
 
-* Contact Kyle and ask about his work experiences
+2. Contact Kyle and ask about his work experiences
 
-* Take Nate out for a beer and talk about tech.
+3. Take Nate out for a beer and talk about tech.
 
-* Learn and build app in React
+4. Learn and build app in React
 
-* Finish building Portfolio app
+5. Finish building Portfolio app
 
-* screen capture spooky mansion app
+6. screen capture spooky mansion app
 
-* fix file naming in chord generator
+7. fix file naming in chord generator
 
-* finalize images for design projects in portfolio
+8. finalize images for design projects in portfolio
 
-* research more about scopes and include scopes in portfolio project
+9. research more about scopes and include scopes in portfolio project
 
-* use AJAX call in portfolio for displaying design/development projects
+10. use AJAX call in portfolio for displaying design/development projects
 
-* post more development projects on linked in
+11. post more development projects on linked in
 
-* Finish resume layout
+12. Finish resume layout
 
-* Finalize capstone with additional features, Stripe etc.
+13. Finalize capstone with additional features, Stripe etc.
 
-* Finish reading well grounded rubyist
+14. Finish reading well grounded rubyist
 
-* Search job postings for most sought after skills
+15. Search job postings for most sought after skills
 
-* Continue going to Ruby Brigade meetup
+16. Continue going to Ruby Brigade meetup
 
-* continue working on white boarding problems
+17. continue working on white boarding problems
 
-* practice speaking about coding experience with a friend
+18. practice speaking about coding experience with a friend
 
-* Research Python and decide if it is worth learning
+19. Research Python and decide if it is worth learning
 
-* Finish watching Angular tutorial and decide if I like working in Angular
+20. Finish watching Angular tutorial and decide if I like working in Angular
 
-* Write recommendations for friends on Linked in
+21. Write recommendations for friends on Linked in
