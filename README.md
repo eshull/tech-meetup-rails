@@ -52,9 +52,20 @@ New Relic is a nice place to hang out in.
 <hr>
 # Post Epicodus Plan
 
-## List of things to do:
+## List of most important things to do:
+1. Contact Kyle and ask about his work experiences
 
-* Finish reading Javscript/Jquery book by Duckett
+* Take Nate out for a beer and talk about tech.
+
+* Finish resume layout
+
+* continue working on white boarding problems
+
+* Finish building Portfolio app
+
+## List of all things to do:
+
+1.  Finish reading Javscript/Jquery book by Duckett
 
 * Contact Kyle and ask about his work experiences
 
@@ -73,5 +84,17 @@ New Relic is a nice place to hang out in.
 * post more development projects on linked in
 
 * Finish resume layout
+
+* Finalize capstone with additional features, Stripe etc.
+
+* Finish reading well grounded rubyist
+
+* Search job postings for most sought after skills
+
+* Continue going to Ruby Brigade meetup
+
+* continue working on white boarding problems
+
+* practice speaking about coding experience with a friend
 
 *
