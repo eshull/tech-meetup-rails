@@ -1,4 +1,4 @@
-
+# Tech Meeting Write Up
 ## What was the name of the tech event?
 
 Portland Ruby Brigade
@@ -46,3 +46,32 @@ Definitely, the atmosphere is great for feeling welcome and learning about Ruby 
 ## Is there anything else that stood out about the event? Please feel free to add additional notes.
 
 New Relic is a nice place to hang out in.
+
+<hr>
+
+<hr>
+# Post Epicodus Plan
+
+## List of things to do:
+
+* Finish reading Javscript/Jquery book by Duckett
+
+* Contact Kyle and ask about his work experiences
+
+* Take Nate out for a beer and talk about tech.
+
+* Learn and build app in React
+
+* Finish building Portfolio app
+
+* screen capture spooky mansion app
+
+* fix file naming in chord generator
+
+* finalize images for design projects in portfolio
+
+* post more development projects on linked in
+
+* Finish resume layout
+
+*
