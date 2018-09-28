@@ -50,6 +50,7 @@ New Relic is a nice place to hang out in.
 <hr>
 
 <hr>
+
 # Post Epicodus Plan
 
 ## Summary Plan:
