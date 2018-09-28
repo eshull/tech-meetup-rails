@@ -52,6 +52,10 @@ New Relic is a nice place to hang out in.
 <hr>
 # Post Epicodus Plan
 
+## Summary Plan:
+
+I need to finish updating all my online accounts and my documents that I use to present myself as a developer in the professional world. I need to hone my skills in coding, but also in how to present myself. Specifically in how interview and interact while being interviewed. I need a place that people can visit online that does a good job of showcasing my developer work. I need to determine where I would like to work, and stay focused on what i need to do to get a position there. I need to continue to reach out to people I know in the tech community, and create new relationships in this community.
+
 ## List of most important things to do:
 
 ### Connections are going to get me a job before skillset, so building connections with other developers is crucial
