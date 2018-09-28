@@ -53,15 +53,21 @@ New Relic is a nice place to hang out in.
 # Post Epicodus Plan
 
 ## List of most important things to do:
+
+### Connections are going to get me a job before skillset, so building connections with other developers is crucial
 1. Contact Kyle and ask about his work experiences
 
 * Take Nate out for a beer and talk about tech.
 
+### I need to finalize my resume so I can present myself as a developer when I make connections.
+
 * Finish resume layout
 
-* continue working on white boarding problems
-
 * Finish building Portfolio app
+
+### White board problems are very common in interviews and I need practice working through them.
+
+* continue working on white boarding problems
 
 ## List of all things to do:
 
@@ -81,6 +87,10 @@ New Relic is a nice place to hang out in.
 
 * finalize images for design projects in portfolio
 
+* research more about scopes and include scopes in portfolio project
+
+* use AJAX call in portfolio for displaying design/development projects
+
 * post more development projects on linked in
 
 * Finish resume layout
@@ -97,4 +107,8 @@ New Relic is a nice place to hang out in.
 
 * practice speaking about coding experience with a friend
 
-*
+* Research Python and decide if it is worth learning
+
+* Finish watching Angular tutorial and decide if I like working in Angular
+
+* Write recommendations for friends on Linked in
